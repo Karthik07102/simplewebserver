@@ -36,8 +36,12 @@ Start the server script and check for errors.
 Open a browser and navigate to http://127.0.0.1:8000 (or the assigned port).
 
 ## PROGRAM:
-<img width="1920" height="1080" alt="Screenshot 2026-10-22 091459" src="https://github.com/user-attachments/assets/58aaee09-200f-4957-a9b2-9595dda23dc0" />
-
+    Cd..
+    git add -A
+    git config user.name “USERNAME”
+    git config user.email “MAIL ID”
+    git commit -m “Success”
+    git push  LINK
 
 ## OUTPUT:
 <img width="1920" height="1080" alt="Screenshot 2026-10-22 092148" src="https://github.com/user-attachments/assets/345711e7-233d-49f2-8822-1b6f169693bf" />
